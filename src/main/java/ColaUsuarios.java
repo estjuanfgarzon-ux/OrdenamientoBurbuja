@@ -30,5 +30,9 @@ public class ColaUsuarios { // clase cola
         }
 
     }
+public NodoUsuario getFrente() {
 
+    return frente;
+
+}
 }
